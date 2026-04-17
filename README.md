@@ -1,11 +1,12 @@
 # Taller-colaborativo
 Nuestro primer proyecto en equipo 
 # Ulises Caicedo Espinosa
+# Jose Luis Charria Cifuentes
 # Predicción temprana del uso problemático de Internet en niños y adolescentes a partir de variables de actividad física y condición física
 # Autor(es):
 Ulises Caicedo Espinosa – Grupo 6
 # Programa: Maestría en Inteligencia Artificial Aplicada – Universidad ICESI
-# Correo(s): ulcaicedo31@gmail.com
+# Correo(s): ulcaicedo31@gmail.com - Jose616@live.com
 # 1. Análisis del problema
   1.1 Contexto
 El uso problemático de Internet (UPI) en población infantil y adolescente se asocia con riesgos en salud mental (ansiedad, depresión), desempeño académico y habilidades socioemocionales. La disponibilidad masiva de dispositivos y conectividad ha incrementado la exposición y la variabilidad de patrones de uso, dificultando la identificación temprana de conductas de riesgo.
