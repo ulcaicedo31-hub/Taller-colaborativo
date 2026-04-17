@@ -1,0 +1,11 @@
+*.csv
+*.xlsx
+*.xls
+*.json
+*.parquet
+*.feather
+*.html
+*.pdf
+*.png
+*.jpg
+*.jpeg
